@@ -1,4 +1,4 @@
-package com.javaproj.sms.entity;
+package com.javaproj.studentmanagementsys.sms.entity;
 import javax.persistence.*;
 import javax.persistence.Id;
 

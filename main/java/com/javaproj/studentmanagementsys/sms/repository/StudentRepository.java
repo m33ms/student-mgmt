@@ -1,7 +1,7 @@
-package com.javaproj.sms.repository;
+package com.javaproj.studentmanagementsys.sms.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.javaproj.sms.entity.Student;
+import com.javaproj.studentmanagementsys.sms.entity.Student;
 
 
 //parameters: <jp entity, type of primary key>
